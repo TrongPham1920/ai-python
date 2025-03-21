@@ -1,0 +1,2 @@
+be:https://ai-be-msv9.onrender.com
+fe:https://ai-ui-ga1d.onrender.com
